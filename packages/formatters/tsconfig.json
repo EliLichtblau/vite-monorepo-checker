@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "strict": true,
+        "rootDir": "src",
+        "outDir": "dist",
+        "jsx": "react",
+        "declaration": true,
+        "declarationMap": true,
+        "esModuleInterop": true,
+        "module": "NodeNext",
+    },
+    "include": ["src/*.ts", "src/**/*.ts","src/*.tsx", "src/**/*.tsx"]
+
+}

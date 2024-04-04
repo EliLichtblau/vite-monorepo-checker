@@ -1,0 +1,13 @@
+{
+  "name": "@local/server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -p tsconfig.json"
+  },
+  "dependencies": {
+    "vite-plugin-checker": "^0.6.4"
+  }
+}
